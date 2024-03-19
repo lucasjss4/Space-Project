@@ -1,0 +1,24 @@
+#inicio{
+    max-width: 1300px;
+    background-color:#D1FEFF;
+    margin: 0 auto;
+    height: 3100px;
+}
+#org{
+    border-radius:20px;
+    background-color: #FFFFFF;
+    border: 2px, solid, #FFFFFF;
+    margin-inline-start: 40px ;
+    margin-inline-end: 40px;
+    padding: 30px 50px 30px 50px;
+}
+.titulo{
+    text-align: center;
+    font-family: 'Lato';
+    font-size: 36px;
+}
+.txt{
+    text-align:justify;
+    font-family: 'Lato';
+    font-size: 26px;
+}

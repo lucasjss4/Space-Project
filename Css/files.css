@@ -1,0 +1,110 @@
+#files {
+    margin: 0 auto;
+    max-width: 1300px;
+    min-height: 115vh;
+    background-color: #D1FEFF;
+}
+.dcm {
+    padding: 30px 50px;
+    background-color: #fff;
+    border-radius:20px;
+    margin-inline-start: 90px;
+    margin-inline-end: 90px;
+    margin-bottom: 30px;
+}
+#titulo-dc {
+    text-align: center;
+    font-family: 'Inter';
+    font-size: 36px; 
+    font-weight: bold;
+}
+#file-1{
+    margin-inline-start: 110px;
+    margin-top: 20px;
+    display:inline-block;
+}
+#imgfile-1 {
+    margin: 10px;
+}
+#afile-1 {
+    margin-top: -45px;
+    margin-inline-start: 60px;
+    font-family: 'Inter';
+    font-size: 20px;
+}
+#afile-1 a{
+    color: #000;
+}
+#file-2{
+    margin-inline-start: 110px;
+    margin-top: 30px;
+}
+#imgfile-2 {
+    margin: 10px;
+}
+#afile-2 {
+    margin-top: -45px;
+    margin-inline-start: 60px;
+    font-family: 'Inter';
+    font-size: 20px;
+}
+#afile-2 a{
+    color: #000;
+}
+#file-3{
+    margin-inline-start: 110px;
+    margin-top: 30px;
+}
+#imgfile-3 {
+    margin: 10px;
+}
+#afile-3 {
+    margin-top: -45px;
+    margin-inline-start: 60px;
+    font-family: 'Inter';
+    font-size: 20px;
+}
+#afile-3 a{
+    color: #000;
+}
+#file-4{
+    margin-inline-start: 110px;
+    margin-top: 30px;
+}
+#imgfile-4 {
+    margin: 10px;
+}
+#afile-4 {
+    margin-top: -45px;
+    margin-inline-start: 60px;
+    font-family: 'Inter';
+    font-size: 20px;
+}
+#afile-4 a{
+    color: #000;
+}
+#file-5{
+    margin-inline-start: 110px;
+    margin-top: 30px;
+    margin-bottom: 90px;
+}
+#imgfile-5 {
+    margin: 10px;
+}
+#afile-5 {
+    margin-top: -45px;
+    margin-inline-start: 60px;
+    font-family: 'Inter';
+    font-size: 20px;
+}
+#afile-5 a{
+    color: #000;
+}
+#mobfog{
+    margin-top: -350px;
+    margin-inline-start: 565px ;
+}
+#mobfog img{
+    width: 300px;
+    height: 205px;
+}

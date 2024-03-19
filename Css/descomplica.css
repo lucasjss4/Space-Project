@@ -1,0 +1,38 @@
+#descomplica {
+    margin: 0 auto;
+    max-width: 1300px;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: #D1FEFF;
+}
+.swiper video{
+    width: 710px;
+    height: 390px;
+    border-radius: 15px;
+
+}
+.swiper img{
+    width: 710px;
+    height: 400px;
+    border-radius: 15px;
+    border: 3px solid #000;
+}
+.swiper{
+    height: 410px;
+    max-width: 1200px;
+}
+.swiper-slide {
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+
+@media (max-width: 450px){
+    .swiper{
+        height: 270px;
+    }
+}
+
+
+

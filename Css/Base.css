@@ -1,0 +1,29 @@
+#rod{
+    max-width: 1300px;
+    background-color: #AEFAFD;
+    height: 50px;
+    font-weight: inherit;
+}
+#rod a {
+    text-decoration: none;
+    font-family: 'Lato';
+    color: #6B6B72;
+    font-size:medium;
+    margin-inline-start: 10px;
+}
+#rod hr{
+    margin-top: -20px;
+    border: 1px solid black;
+}
+#email{
+    height: 30px;
+    margin-inline-start: 80px;
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
+#insta{
+    height: 30px;
+    margin-inline-start: 32%;    
+    margin-top: 10px;
+    margin-bottom: -10px;
+}
